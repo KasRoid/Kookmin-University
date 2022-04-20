@@ -6,11 +6,8 @@
 
 - Web Development
   -  Flask
+  -  Google Dialogflow
 - Introduction to Blockchain
-  -  Decentralization
-  -  Immutability
-  -  Transparency
-  -  Anonymity
 - Computer System I
 - Data Engineering
   -  SQL
