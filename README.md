@@ -1,6 +1,6 @@
 # Kookmin-University
 
-## Master in Software
+Master in Computer Engineering
 
 ### Spring 2022
 
@@ -11,3 +11,5 @@
 - Computer System I
 - Data Engineering
   -  SQL
+
+### Fall 2022
