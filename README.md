@@ -11,5 +11,6 @@ Master in Computer Engineering
 - Computer System I
 - Data Engineering
   -  SQL
+  -  MySQL Workbench
 
 ### Fall 2022
