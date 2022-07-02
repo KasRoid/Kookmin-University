@@ -8,6 +8,8 @@ Master in Computer Engineering
   -  Flask
   -  Google Dialogflow
 - Introduction to Blockchain
+  - Bitcoin
+  - Ethereum
 - Computer System I
 - Data Engineering
   -  SQL
