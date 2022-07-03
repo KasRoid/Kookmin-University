@@ -11,6 +11,8 @@ Master in Computer Engineering
   - Bitcoin
   - Ethereum
 - Computer System I
+  - Memory
+  - Teachable Machine
 - Data Engineering
   -  SQL
   -  MySQL Workbench
