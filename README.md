@@ -11,7 +11,8 @@ Master in Computer Engineering
   - Bitcoin
   - Ethereum
 - Computer System I
-  - Memory
+  - CPU
+  - RAM
   - Teachable Machine
 - Data Engineering
   -  SQL
